@@ -27,7 +27,7 @@ I'm a Senior PHP Developer with a passion for building scalable, high-performanc
 ## 💻 Notable Projects
 
 ### [AIArtGen](https://github.com/delabon/aiartgen) 🎨
-A Laravel-based AI art generator that uses OpenAI's DALL-E API to create unique artwork. I developed the entire backend using Laravel 11 and integrated with OpenAI’s API. Key features include user authentication, payment integration, and high-performance image processing.
+A Laravel-based AI art generator that uses OpenAI's DALL-E API to create unique artwork. I developed the entire backend using Laravel 11 and integrated with OpenAI’s API. Key features include user authentication, art generation, and high-performance image processing.
 
 ### [Symfony API Language Learning Assistant](https://github.com/delabon/symfony-api-language-learning-assistant-using-ai) 🗣️
 A Symfony-based API that leverages AI to assist users in learning languages. The application integrates AI models to provide language practice, feedback, and learning recommendations.
