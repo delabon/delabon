@@ -7,7 +7,6 @@ I'm a Senior PHP Developer with a passion for building scalable, high-performanc
 ### Backend Development:
 - **Languages:** PHP (5, 7, & 8+)
 - **Frameworks:** Laravel, Symfony, WordPress
-- **Architectures:** Domain-Driven Design (DDD), Microservices, Event-Driven Development
 
 ### Frontend Development:
 - **Frameworks:** Vue, React, Blade, Twig
