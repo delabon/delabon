@@ -1,6 +1,6 @@
-# Hi, I'm Sabri Taieb! 👋
+# 👋 Hi, I'm Sabri Taieb - Full-Stack Web Developer
 
-I'm a Senior PHP Developer with a passion for building scalable, high-performance backend systems. With over 11 years of experience in PHP, JavaScript, and Laravel, I've worked on everything from small business solutions to large-scale SaaS applications. I'm always looking for new challenges and opportunities to grow my skills!
+I'm a **Senior PHP Developer** with a passion for building scalable, high-performance backend systems. With over **11 years** of experience in PHP, JavaScript, and Laravel, I've worked on everything from small business solutions to large-scale SaaS applications. I'm always looking for new challenges and opportunities to grow my skills!
 
 ## 🔧 Skills & Technologies
 
