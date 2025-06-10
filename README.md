@@ -26,4 +26,4 @@ I'm a **Senior PHP Developer** with a passion for building scalable, high-perfor
 ## 📫 Get in Touch
 
 - Upwork: [upwork.com/freelancers/sabri](https://www.upwork.com/freelancers/sabri)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/sabri-taieb/](https://www.linkedin.com/in/sabri-taieb/)
