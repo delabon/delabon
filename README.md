@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sabri Taieb - Full-Stack Web Developer
 
-I'm a **Senior PHP Developer** with a passion for building scalable, high-performance backend systems. With over **11 years** of experience in PHP, JavaScript, and Laravel, I've worked on everything from small business solutions to large-scale SaaS applications. I'm always looking for new challenges and opportunities to grow my skills!
+I'm a **Senior PHP Developer** with a passion for building scalable, high-performance backend systems. With over **12 years** of experience in PHP, Laravel, Symfony, and SQL, I've worked on everything from small business solutions to large-scale SaaS applications. I'm always looking for new challenges and opportunities to grow my skills!
 
 ## 🔧 Skills & Technologies
 
@@ -9,10 +9,10 @@ I'm a **Senior PHP Developer** with a passion for building scalable, high-perfor
 - **Frameworks:** Laravel, Symfony, WordPress (CMS)
 
 ### Frontend Development:
-- **Frameworks:** Vue, React, Blade, Twig, Tailwind
+- **Frameworks:** Livewire, React, Vue, Blade, Twig, Tailwind
 - **Languages:** HTML, CSS, JavaScript (ES6+)
 
-### Databases:
+### Databases & Search Engines:
 - MySQL, PostgreSQL, SQLite
 - Redis, Elasticsearch
 
