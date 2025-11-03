@@ -9,7 +9,7 @@ I'm a **Senior PHP Developer** with a passion for building scalable, high-perfor
 - **Frameworks:** Laravel, Symfony, WordPress (CMS)
 
 ### Frontend Development:
-- **Frameworks:** Livewire, React, Vue, Blade, Twig, Tailwind
+- **Frameworks:** Livewire, React, Vue, Alpine, Blade, Twig, Tailwind, jQuery
 - **Languages:** HTML, CSS, JavaScript (ES6+)
 
 ### Databases & Search Engines:
