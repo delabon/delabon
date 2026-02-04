@@ -22,6 +22,7 @@ I'm a **Senior PHP Developer** with a passion for building scalable, high-perfor
 - **Containerization:** Docker
 - **Testing:** PHPUnit, PHPStan, Pest, TDD
 - **API Development:** REST, SOAP
+- **AI Tools:** Junie(PHPStorm), Cursor, OpenCode
 
 ## Get in Touch
 
