@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sabri Taieb - Full-Stack Web Developer
+# Hi, I'm Sabri Taieb - Full-Stack Web Developer
 
 I'm a **Senior PHP Developer** with a passion for building scalable, high-performance backend systems. With over **12 years** of experience in PHP, Laravel, Symfony, and SQL, I've worked on everything from small business solutions to large-scale SaaS applications. I'm always looking for new challenges and opportunities to grow my skills!
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 ### Backend Development:
 - **Languages:** PHP (5, 7, & 8+)
@@ -23,7 +23,7 @@ I'm a **Senior PHP Developer** with a passion for building scalable, high-perfor
 - **Testing:** PHPUnit, PHPStan, Pest, TDD
 - **API Development:** REST, SOAP
 
-## 📫 Get in Touch
+## Get in Touch
 
 - Upwork: [upwork.com/freelancers/sabri](https://www.upwork.com/freelancers/sabri)
 - LinkedIn: [linkedin.com/in/sabri-taieb/](https://www.linkedin.com/in/sabri-taieb/)
